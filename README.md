@@ -1,1 +1,1 @@
-# DeepSSNN
+# DeepLDNN
